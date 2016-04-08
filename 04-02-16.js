@@ -17,3 +17,7 @@ hammingWeight = function (num) {
 
 hammingWeight(10);
 hammingWeight(21);
+
+
+
+hammingWeight2();
